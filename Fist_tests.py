@@ -1,0 +1,1 @@
+print('Fist_tests.py')
